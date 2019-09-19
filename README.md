@@ -1,4 +1,4 @@
-# isoft partner token contract
+# 8x8 Protocol token contract
 
 ## How to build. 
 
